@@ -7,3 +7,4 @@ Add Text
 # Chapter4
 # 20171017_Update
 # 20171018 Chapter5 Deleted
+# 20171018 Chapter5 Deleted
